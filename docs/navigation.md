@@ -1,0 +1,42 @@
+---
+search:
+  exclude: true
+---
+
+- Home
+	- [Main Page](index.md)
+- ArchLinux
+    - [Arch Linux Dual Boot with Windows 11](Archlinux/archlinux_dual_boot.md)
+    - [Arch Linux Tips](Archlinux/archlinux_tips.md)
+- Algo
+    - Graphs
+        - [Articulation points](Algo/graphs/articulation_points.md)
+    - Mathematics
+        - [FFT](Algo/Mathematics/fft.md)
+        - [Mobius Function](Algo/Mathematics/mobius.md)
+    - FAQ
+        - [BFS insert order](Algo/faq/bfs_insert_order.md)
+- CSES
+    - graphs
+        - [Shortest Routes I](CSES/graphs/shortest_routes_I.md)
+        - [Shortest Routes II](CSES/graphs/shortest_routes_II.md)
+        - [High Score](CSES/graphs/high_score.md)
+        - [Flight Discount](CSES/graphs/flight_discount.md)
+        - [Cycle Finding](CSES/graphs/cycle_finding.md)
+        - [Flight Routes](CSES/graphs/flight_routes.md)
+        - [Course Schedule](CSES/graphs/course_schedule.md)
+        - [Longest Flight Route](CSES/graphs/longest_flight_route.md)
+        - [Investigation](CSES/graphs/investigation.md)
+        - [Planets Queries I](CSES/graphs/planets_queries_I.md)
+        - [Planets Queries II](CSES/graphs/planets_queries_II.md)
+        - [Planets Cycles](CSES/graphs/planets_cycles.md)
+    - Mathematics
+        - [Counting Coprime Pairs](CSES/mathematics/Counting_Coprime_Pairs.md)
+- Codeforces
+    - DP
+        - [D. Explorer Space](Codeforces/dp/explorer_space.md)
+    - Graphs
+        - [C. Kefa and Park](Codeforces/graphs/kefa_and_park.md)
+        - [C. Journey](Codeforces/graphs/journey.md)
+        - [D. Minimal Height Tree](Codeforces/graphs/minimal_height_tree.md)
+        - [E. Cyclic Components](Codeforces/graphs/cyclic_components.md)
