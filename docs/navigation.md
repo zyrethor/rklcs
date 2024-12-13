@@ -10,6 +10,8 @@ search:
     - [Arch Linux Tips](Archlinux/archlinux_tips.md)
 - Algo
     - Graphs
+        - [2 SAT](Algo/graphs/2SAT.md)
+        - [SCC](Algo/graphs/SCC.md)
         - [Articulation points](Algo/graphs/articulation_points.md)
     - Mathematics
         - [FFT](Algo/Mathematics/fft.md)
@@ -30,6 +32,12 @@ search:
         - [Planets Queries I](CSES/graphs/planets_queries_I.md)
         - [Planets Queries II](CSES/graphs/planets_queries_II.md)
         - [Planets Cycles](CSES/graphs/planets_cycles.md)
+        - [Road Reparation](CSES/graphs/road_reparation.md)
+        - [Road Construction](CSES/graphs/road_construction.md)
+        - [Flight Routes Check](CSES/graphs/flight_routes_check.md)
+        - [Planets and Kingdoms](CSES/graphs/planets_and_kingdoms.md)
+        - [Giant Pizza](CSES/graphs/giant_pizza.md)
+        - [Coin Collector](CSES/graphs/coin_collector.md)
     - Mathematics
         - [Counting Coprime Pairs](CSES/mathematics/Counting_Coprime_Pairs.md)
 - Codeforces
