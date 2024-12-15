@@ -16,8 +16,9 @@ search:
     - Mathematics
         - [FFT](Algo/Mathematics/fft.md)
         - [Mobius Function](Algo/Mathematics/mobius.md)
-    - FAQ
-        - [BFS insert order](Algo/faq/bfs_insert_order.md)
+    - Misc
+        - [BFS insert order](Algo/misc/bfs_insert_order.md)
+        - [Recursion Complexity](Algo/misc/recursion_complexity.md)
 - CSES
     - graphs
         - [Shortest Routes I](CSES/graphs/shortest_routes_I.md)

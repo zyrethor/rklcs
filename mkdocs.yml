@@ -16,6 +16,7 @@ theme:
     - search.suggest
     - toc.integrate
     - navigation.top
+    - search.suggest
 
 markdown_extensions:
   - pymdownx.highlight:
